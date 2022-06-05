@@ -68,11 +68,6 @@
     font-size: 2.3rem;
   }
 }
-@media screen and (max-width: 660px) {
-  .blogs {
-    grid-template-columns: repeat(1, 1fr);
-  }
-}
 
 @media screen and (max-width: 1250px) {
   .blogs {
